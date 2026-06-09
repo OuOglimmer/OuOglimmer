@@ -1,8 +1,6 @@
 <!-- 头部：个人简介 -->
 ## 👋 Hi there, I'm OuOglimmer
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="coding" />
-
 I’m a software engineer currently based in **Chengdu, China**.  
 When I'm not coding, you'll probably find me listening to music or reading.
 
