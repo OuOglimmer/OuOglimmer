@@ -57,17 +57,3 @@ I enjoy breaking down complex systems, exploring how tools work under the hood, 
 </p>
 
 ---
-
-<!-- 底部装饰（可选） -->
-### 📫 Find me elsewhere
-
-- 🎧 [Last.fm](https://last.fm/user/muyu) – music I'm listening to
-
-> *“Simplicity is the soul of efficiency.”* – Austin Freeman
-
----
-
-<!-- GitHub 统计（可选，会自动显示你的数据） -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muyu&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-</p>>
